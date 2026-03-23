@@ -3400,6 +3400,12 @@
             "expression": "divide( [std time ori],[labor time ori])",
             "formatString": "0\\ %;-0\\ %;0\\ %",
             "lineageTag": "d7f58b01-581b-4106-af45-fdf2f1e941ea"
+          },
+          {
+            "name": "TEST",
+            "expression": "sum(factReporteo[cantidad_producida])",
+            "formatString": "0",
+            "lineageTag": "c6c98c20-c396-41fc-b314-2c3ff8a84eb9"
           }
         ],
         "partitions": [
