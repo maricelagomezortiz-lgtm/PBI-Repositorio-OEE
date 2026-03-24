@@ -36,7 +36,7 @@ Este proyecto presenta una solución de análisis de datos para un entorno de ma
     ⭐ Optimizar recursos productivos
 
 ## INSTALACION
-1️⃣ Descargar proyecto pbip  <BR>
+1️⃣ Descargar proyecto <BR>
 2️⃣ Ejecutar Query Model en SQL Server para la creación de la base de datos<BR>
 3️⃣ Validar modelo con la consulta Query Validate en SQL Server <BR>
 4️⃣ Abrir proyecto pbip en Power BI y actualizar <BR>
