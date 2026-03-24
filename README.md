@@ -1,7 +1,7 @@
 🚗 Dashboard de Indicadores de Producción (Manufactura Automotriz)
 📊 Descripción del Proyecto
 
-Este proyecto presenta una solución de análisis de datos para un entorno de manufactura automotriz, enfocada en el monitoreo del desempeño operativo mediante indicadores clave como eficiencia, tiempo muerto y sus causa y  tendencias de producción mensual.
+Este proyecto presenta una solución de análisis de datos para un entorno de manufactura automotriz, enfocada en el monitoreo del desempeño operativo mediante indicadores clave de las empresas de manufactura.
 
 El dashboard simula un escenario real de planta donde los datos de producción son transformados y analizados para apoyar la toma de decisiones basada en datos.
 
@@ -11,7 +11,7 @@ Brindar visibilidad del desempeño productivo e identificar pérdidas de eficien
 
 Producción por máquina
 Causas de tiempo muerto
-Piezas rechazadas (scrap)
+Piezas rechazadas (scrap) y sus causas
 Tendencias de rendimiento
 
 Esto permite:
@@ -27,22 +27,6 @@ Producción Estándar
 Tiempo Productivo
 Tiempo Muerto
 
-
-🔍 Análisis del Dashboard
-📅 Tendencia de Rendimiento
-
-Se observa una mejora en el rendimiento a lo largo del tiempo, lo que sugiere estabilidad u optimización en el proceso.
-
-🏭 Producción por Máquina
-
-Permite identificar:
-
-Máquinas con menor desempeño
-Posibles cuellos de botella en la línea de producción
-
-❌ Análisis de Rechazos
-
-⏱️ Análisis de Tiempo Muerto
 
 
 🧱 Modelo de Datos y Enfoque de Ingeniería
