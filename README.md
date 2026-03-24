@@ -11,35 +11,27 @@
 ## INTRODUCCION
 <p align="justify">
 Este proyecto presenta una solución de análisis de datos para un entorno de manufactura automotriz, enfocada en el monitoreo del desempeño operativo mediante indicadores clave como eficiencia por centro de trabajo; tiempo muerto y sus causas; tiempo muerto y sus causas y tendecia de producción.
-</p>
+
 <p align="center" >
-  ![Dashboard](portada.png)
+  <img src="PORTADA.png" width="800"/>
 </p>
+
 <H3>Objetivo</h3>
 
 <p align="justify">
    Brindar visibilidad del desempeño productivo e identificar pérdidas de eficiencia mediante el análisis de:
-  ✔️ Producción por máquina 
-🚫⏳ Causas de tiempo muerto
-🧱❌ Piezas rechazadas (scrap)
-📈 Tendencias de rendimiento
 </p>
+      ✔️ Producción por máquina <br>
+      🚫⏳ Causas de tiempo muerto <br>
+      🧱❌ Piezas rechazadas (scrap) <br>
+      📈 Tendencias de rendimiento <br>
 
 Esto permite:
-<ul>
-  <li>
-    Reducir tiempos muertos
-  </li>
-  <li>
-    Mejorar la eficiencia operativa
-  </li>
-  <li>
-    Identificar causas raíz de defectos
-  </li>
-  <li>
-    Optimizar recursos productivos
-  </li>
-</ul>
+
+    ⭐ Reducir tiempos muertos
+    ⭐ Mejorar la eficiencia operativa
+    ⭐ Identificar causas raíz de defectos
+    ⭐ Optimizar recursos productivos
 
 ## INSTALACION
 1️⃣ Descargar query_model para el modelo en SQL <BR>
@@ -50,10 +42,10 @@ Esto permite:
 ## HERRAMIENTAS
 <ul>
   <li>
-    SQL Server
+   🥃 SQL Server
   </li>
   <li>
-    Power BI, Power Query, DAX
+   📊 Power BI, Power Query, DAX
   </li>
 </ul>
   
