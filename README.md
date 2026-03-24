@@ -21,12 +21,14 @@ Este proyecto presenta una solución de análisis de datos para un entorno de ma
 <p align="justify">
    Brindar visibilidad del desempeño productivo e identificar pérdidas de eficiencia mediante el análisis de:
 </p>
-      ✔️ Producción por máquina <br>
-      🚫⏳ Causas de tiempo muerto <br>
+      ✔️    Producción por máquina <br>
+      🚫⏳  Causas de tiempo muerto <br>
       🧱❌ Piezas rechazadas (scrap) <br>
-      📈 Tendencias de rendimiento <br>
-
-Esto permite:
+      📈    Tendencias de rendimiento <br><br>
+      
+<p align="justify">
+  Esto permite:
+</p>
 
     ⭐ Reducir tiempos muertos
     ⭐ Mejorar la eficiencia operativa
@@ -34,10 +36,10 @@ Esto permite:
     ⭐ Optimizar recursos productivos
 
 ## INSTALACION
-1️⃣ Descargar query_model para el modelo en SQL <BR>
-2️⃣ Ejecutar consultas en SQL Server <BR>
-3️⃣ Descargar proyecto pbix  <BR>
-4️⃣ Actualizar <BR>
+1️⃣ Descargar proyecto pbip  <BR>
+2️⃣ Ejecutar Query Model en SQL Server para la creación de la base de datos<BR>
+3️⃣ Validar modelo con la consulta Query Validate en SQL Server <BR>
+4️⃣ Abrir proyecto pbip en Power BI y actualizar <BR>
 
 ## HERRAMIENTAS
 <ul>
