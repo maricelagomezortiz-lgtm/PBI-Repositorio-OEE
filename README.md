@@ -13,7 +13,9 @@
 Este proyecto presenta una solución de análisis de datos para un entorno de manufactura automotriz, enfocada en el monitoreo del desempeño operativo mediante indicadores clave como eficiencia por centro de trabajo; tiempo muerto y sus causas; tiempo muerto y sus causas y tendecia de producción.
 
 <p align="center" >
-  <img src="PORTADA.png" width="800"/>
+  
+  <img width="1060" height="599" alt="image" src="https://github.com/user-attachments/assets/d549dbd2-9080-4fac-9860-3db6629a5fda" />
+
 </p>
 
 <H3>Objetivo</h3>
