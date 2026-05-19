@@ -10,7 +10,7 @@
 
 ## INTRODUCCION
 <p align="justify">
-Este proyecto presenta una solución de análisis de datos para un entorno de manufactura automotriz, enfocada en el monitoreo del desempeño operativo mediante indicadores clave como eficiencia por centro de trabajo; tiempo muerto y sus causas; tiempo muerto y sus causas y tendecia de producción.
+Este proyecto presenta una solución de análisis de datos para un entorno de manufactura automotriz, enfocada en el monitoreo del desempeño operativo mediante indicadores clave como eficiencia por centro de trabajo; tiempo muerto y sus causas; y tendecia de producción.
 
 <p align="center" >
   
